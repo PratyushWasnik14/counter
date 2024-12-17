@@ -3,7 +3,7 @@
 // increment when button is clicked
 // change count-el in the html to reflect the increment
 
-/*
+
 let countEl = document.getElementById("count-el"); // Get the counter element
 let saveEl = document.getElementById("save-el" );
 let count = 0; // Initialize counter variable
@@ -18,7 +18,7 @@ function save(){
     countEl.textContent = 0;
     count=0
 }
-*/
+
 
 
 
